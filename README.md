@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/daltonic](https://dev.to/daltonic)
 
-- 💬 Ask me about **Vue**
+- 💬 Ask me about **VueJs**
 
 - 📫 How to reach me **darlingtongospel@gmail.com**
 
