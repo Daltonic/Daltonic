@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Convert any HTML Element to Image using VueJs 3](https://dev.to/daltonic/how-to-convert-any-html-element-to-image-using-vuejs-3-2gfj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
