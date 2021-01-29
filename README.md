@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
-- 📝 I regularly write articles on [https://dev.to/daltonic](https://dev.to/daltonic)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/@daltonic) and [Medium.com](https://medium.com/@darlingtongospel)
 
 - 💬 Ask me about **VueJs**
 
