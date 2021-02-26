@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gospel Darlington</h1>
-<h3 align="center">An agile software developer from Nigeria.</h3>
+<h3 align="center">An agile VueJs software developer.</h3>
 
-- I'm currently working on Data Mockup [data-mockup](https://data-mockup.web.app)
+- I'm currently working on Data Mockup [Lyrica](https://lyrica.web.app)
 
-- 🌱 I’m currently maturing my skills on **Progressive Web App (PWA)**
+- 🌱 I’m currently advancing my skills on **Progressive Web App (PWA)**
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
