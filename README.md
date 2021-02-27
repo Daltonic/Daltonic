@@ -19,7 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Six Vue Functions That Will Ace Your Projects](https://dev.to/daltonic/the-six-vue-functions-that-will-ace-your-project-2pmd)
+- [The Six Functions That Will Ace Your VueJs Projects](https://dev.to/daltonic/the-six-vue-functions-that-will-ace-your-project-2pmd)
 - [A Better Alternative To Html2Canvas In VueJs 3](https://medium.com/@darlingtongospel/a-better-alternative-to-html2canvas-in-vuejs-3-e0686755d56e?source=rss-33c8ecc58e99------2)
 - [How to Convert any HTML Element to Image using VueJs 3](https://dev.to/daltonic/how-to-convert-any-html-element-to-image-using-vuejs-3-2gfj)
 <!-- BLOG-POST-LIST:END -->
