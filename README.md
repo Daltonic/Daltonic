@@ -21,6 +21,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<<<<<<< HEAD
+=======
+- [How To Build A Virtual Event Site With Angular (Youtube-Live Clone)](https://darlingtongospel.medium.com/how-to-build-a-virtual-event-site-with-angular-youtube-live-clone-4a6676abbc26?source=rss-33c8ecc58e99------2)
+- [How to Build a Dating Site with VueJs (Tinder Clone)](https://darlingtongospel.medium.com/how-to-build-a-dating-site-with-vuejs-tinder-clone-827f1f38d5c?source=rss-33c8ecc58e99------2)
+- [How To Build A Virtual Event Site With Angular (Youtube-Live Clone)](https://dev.to/daltonic/how-to-build-a-virtual-event-site-with-angular-youtube-live-clone-356p)
+- [How to Build a Dating Site with VueJs (Tinder Clone)](https://dev.to/daltonic/how-to-build-a-dating-site-with-vuejs-tinder-clone-4ddc)
+- [The Six Functions That Will Ace Your VueJs Projects](https://dev.to/daltonic/the-six-vue-functions-that-will-ace-your-project-2pmd)
+>>>>>>> 5519024a9d1680a2aacc5317dde6bde838d310fe
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
