@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Is a Chatbot?](https://dev.to/daltonic/what-is-a-chatbot-3h2g)
+- [What is HIPAA?](https://dev.to/daltonic/what-is-hipaa-4n0j)
 - [How to Build a Team Messenger Site With React (Slack Clone)](https://dev.to/daltonic/how-to-build-a-team-messenger-site-with-react-slack-clone-11bc)
 - [How To Build A Virtual Event Site With Angular (Youtube-Live Clone)](https://dev.to/daltonic/how-to-build-a-virtual-event-site-with-angular-youtube-live-clone-356p)
 - [How to Build a Dating Site with VueJs (Tinder Clone)](https://dev.to/daltonic/how-to-build-a-dating-site-with-vuejs-tinder-clone-4ddc)
-- [The Six Functions That Will Ace Your VueJs Projects](https://dev.to/daltonic/the-six-vue-functions-that-will-ace-your-project-2pmd)
-- [How to Convert any HTML Element to Image using VueJs 3](https://dev.to/daltonic/how-to-convert-any-html-element-to-image-using-vuejs-3-2gfj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
