@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **darlingtongospel@gmail.com**
 
-- 📄 Know about my experiences [https://daltonic.github.io/resume](https://daltonic.github.io/resume)
+- 📄 Know about my experiences [Resume](https://daltonic.github.io/assets/Resume-Darlington-Gospel.pdf)
 
 - ⚡ Fun fact **I know I've a good sense of humor**
 
