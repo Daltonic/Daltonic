@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Predictive Machine Learning Site With React and Python (Part One: Model Development)](https://dev.to/daltonic/how-to-build-a-predictive-machine-learning-site-with-react-and-python-part-one-model-development-117)
 - [How to Build a Social Networking site with VueJs (Facebook Clone)](https://dev.to/daltonic/how-to-build-a-social-networking-site-with-vuejs-facebook-clone-2bpa)
 - [What Is a Chatbot?](https://dev.to/daltonic/what-is-a-chatbot-3h2g)
 - [What is HIPAA?](https://dev.to/daltonic/what-is-hipaa-4n0j)
 - [How to Build a Team Messenger Site With React (Slack Clone)](https://dev.to/daltonic/how-to-build-a-team-messenger-site-with-react-slack-clone-11bc)
-- [How To Build A Virtual Event Site With Angular (Youtube-Live Clone)](https://dev.to/daltonic/how-to-build-a-virtual-event-site-with-angular-youtube-live-clone-356p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
