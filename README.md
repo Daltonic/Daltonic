@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daltonic&label=Profile%20views&color=0e75b6&style=flat" alt="daltonic" /> </p>
 
-- I'm currently working on Lyrica [lyrica](https://lyrica.web.app)
+- I'm currently working on [Predictive](https://daltonic.github.io)
 
 - 🌱 I’m currently maturing my skills on **Progressive Web App (PWA)**
 
@@ -34,7 +34,7 @@
 <a href="https://twitter.com/idaltonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="idaltonic" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darlington-gospel-aa626b125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darlington-gospel-aa626b125/" height="30" width="40" /></a>
 <a href="https://fb.com/darlington.gospel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darlington.gospel01" height="30" width="40" /></a>
-<a href="https://medium.com/@daltonic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daltonic" height="30" width="40" /></a>
+<a href="https://darlingtongospel.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daltonic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
