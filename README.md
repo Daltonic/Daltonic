@@ -21,11 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Photo-Share App with React Native &lpar;Instagram Clone&rpar;](https://dev.to/daltonic/how-to-build-a-photo-share-app-with-react-native-instagram-clone-486h)
 - [How to Build a Private Messaging Chat App with React-Native &lpar;Signal Clone&rpar;](https://dev.to/daltonic/how-to-build-a-private-messaging-chat-app-with-react-native-signal-clone-44pn)
 - [How to Build a Predictive Machine Learning Site With React and Python &lpar;Part Three: Frontend Development&rpar;](https://dev.to/daltonic/how-to-build-a-predictive-machine-learning-site-with-react-and-python-part-three-frontend-development-57m8)
 - [How to Build a Predictive Machine Learning Site With React and Python &lpar;Part Two: API Development&rpar;](https://dev.to/daltonic/how-to-build-a-predictive-machine-learning-site-with-react-and-python-part-two-api-development-11d2)
 - [How to Build a Predictive Machine Learning Site With React and Python &lpar;Part One: Model Development&rpar;](https://dev.to/daltonic/how-to-build-a-predictive-machine-learning-site-with-react-and-python-part-one-model-development-117)
-- [How to Build a Social Networking site with VueJs &lpar;Facebook Clone&rpar;](https://dev.to/daltonic/how-to-build-a-social-networking-site-with-vuejs-facebook-clone-2bpa)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
