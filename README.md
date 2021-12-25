@@ -1,31 +1,22 @@
 <h1 align="center">Hi 👋, I'm Gospel Darlington</h1>
-<h3 align="center">A remote fullstack web developer prolific in VueJs, Angular, ReactJs and API development.</h3>
+<h3 align="center">A remote Software Engineer prolific with ReactJs, ReactNative, VueJs, and more.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daltonic&label=Profile%20views&color=0e75b6&style=flat" alt="daltonic" /> </p>
-
-- I'm currently working on [Predictive](https://daltonic.github.io)
-
-- 🌱 I’m currently maturing my skills on **Progressive Web App (PWA)**
+- 🌱 I’m currently applying **Blockchain Technologies** to my app development
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
 - 📝 I regularly write articles on [https://dev.to/daltonic](https://dev.to/daltonic)
 
-- 💬 Ask me about **Web App Development**
+- 💬 Ask me about **Web and Mobile App Development**
 
 - 📫 How to reach me **darlingtongospel@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://daltonic.github.io/assets/Resume-Darlington-Gospel.pdf)
 
-- ⚡ Fun fact **I know I've a good sense of humor**
+- ⚡ Fun fact **I've a good sense of humor**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Social Networking site with VueJs (Facebook Clone)](https://dev.to/daltonic/how-to-build-a-social-networking-site-with-vuejs-facebook-clone-2bpa)
-- [What Is a Chatbot?](https://dev.to/daltonic/what-is-a-chatbot-3h2g)
-- [What is HIPAA?](https://dev.to/daltonic/what-is-hipaa-4n0j)
-- [How to Build a Team Messenger Site With React (Slack Clone)](https://dev.to/daltonic/how-to-build-a-team-messenger-site-with-react-slack-clone-11bc)
-- [How To Build A Virtual Event Site With Angular (Youtube-Live Clone)](https://dev.to/daltonic/how-to-build-a-virtual-event-site-with-angular-youtube-live-clone-356p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
