@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Ethereum Transaction App with React and Solidity: &lpar;Part One&rpar;](https://dev.to/daltonic/building-an-ethereum-transaction-app-with-react-and-solidity-part-one-1kgd)
 - [How to Build a Chat App using ReactNative and Firebase &lpar;LinkedIn Clone&rpar;](https://dev.to/daltonic/how-to-build-a-chat-app-using-reactnative-and-firebase-linkedin-clone-51ig)
 - [How to Build a Photo-Share App with React Native &lpar;Instagram Clone&rpar;](https://dev.to/daltonic/how-to-build-a-photo-share-app-with-react-native-instagram-clone-486h)
 - [How to Build a Private Messaging Chat App with React-Native &lpar;Signal Clone&rpar;](https://dev.to/daltonic/how-to-build-a-private-messaging-chat-app-with-react-native-signal-clone-44pn)
 - [How to Build a Predictive Machine Learning Site With React and Python &lpar;Part Three: Frontend Development&rpar;](https://dev.to/daltonic/how-to-build-a-predictive-machine-learning-site-with-react-and-python-part-three-frontend-development-57m8)
-- [How to Build a Predictive Machine Learning Site With React and Python &lpar;Part Two: API Development&rpar;](https://dev.to/daltonic/how-to-build-a-predictive-machine-learning-site-with-react-and-python-part-two-api-development-11d2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
