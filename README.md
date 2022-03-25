@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Build A Decentralized eCommerce Platform with React and Solidity: &lpar;PART TWO&rpar;](https://dev.to/daltonic/how-to-build-a-decentralized-ecommerce-platform-with-react-and-solidity-part-two-42gk)
 - [How To Build A Decentralized eCommerce Platform with React and Solidity: &lpar;PART ONE&rpar;](https://dev.to/daltonic/how-to-build-a-decentralized-ecommerce-platform-with-react-and-solidity-part-one-21o6)
 - [Build Privex: A Cross-Platform ReactNative Chat App](https://dev.to/daltonic/build-privex-a-cross-platform-reactnative-chat-app-4jb4)
 - [Building an Ethereum Transaction App with React and Solidity: &lpar;Part Two&rpar;](https://dev.to/daltonic/building-an-ethereum-transaction-app-with-react-and-solidity-part-two-2pg2)
 - [Building an Ethereum Transaction App with React and Solidity: &lpar;Part One&rpar;](https://dev.to/daltonic/building-an-ethereum-transaction-app-with-react-and-solidity-part-one-1kgd)
-- [How to Build a Chat App using ReactNative and Firebase &lpar;LinkedIn Clone&rpar;](https://dev.to/daltonic/how-to-build-a-chat-app-using-reactnative-and-firebase-linkedin-clone-51ig)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
