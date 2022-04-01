@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gospel Darlington</h1>
-<h3 align="center">A remote Software Engineer prolific with ReactJs, ReactNative, VueJs, and more.</h3>
+<h3 align="center">A remote Software Engineer prolific with ReactJs, ReactNative, VueJs, and Blockchain.</h3>
 
 - 🌱 I’m currently applying **Blockchain Technologies** to my app development
 
