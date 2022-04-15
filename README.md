@@ -17,11 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Code Your First Smart Contract with Solidity](https://dev.to/daltonic/how-to-code-your-first-smart-contract-with-solidity-52ih)
 - [How To Build A Classic Web3 NFT Minting Dapp with React and Solidity: Part 2](https://dev.to/daltonic/how-to-build-a-classic-web3-nft-minting-dapp-with-react-and-solidity-part-2-59la)
 - [How To Build A Classic Web3 NFT Minting Dapp with React and Solidity: Part 1](https://dev.to/daltonic/how-to-build-a-classic-web3-nft-minting-dapp-with-react-and-solidity-part-1-4ag)
 - [How To Build A Decentralized eCommerce Platform with React and Solidity: &lpar;PART TWO&rpar;](https://dev.to/daltonic/how-to-build-a-decentralized-ecommerce-platform-with-react-and-solidity-part-two-42gk)
 - [How To Build A Decentralized eCommerce Platform with React and Solidity: &lpar;PART ONE&rpar;](https://dev.to/daltonic/how-to-build-a-decentralized-ecommerce-platform-with-react-and-solidity-part-one-21o6)
-- [Build Privex: A Cross-Platform ReactNative Chat App](https://dev.to/daltonic/build-privex-a-cross-platform-reactnative-chat-app-4jb4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
