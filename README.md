@@ -1,3 +1,5 @@
+![Header Image](https://i.ibb.co/dDt9jdQ/linkedin-cover-4.png)
+
 <h1 align="center">Hi 👋, I'm Gospel Darlington</h1>
 <h3 align="center">A remote Software Engineer prolific with ReactJs, ReactNative, VueJs, and Blockchain.</h3>
 
