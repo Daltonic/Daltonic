@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Code Solidity Smart Contract CRUD Functions: The Right Way](https://dev.to/daltonic/how-to-code-solidity-smart-contract-crud-functions-the-right-way-3h31)
 - [How to Code a Fantastic Batch Payment Function with Solidity: A Must Know Technique](https://dev.to/daltonic/how-to-code-a-fantastic-batch-payment-function-with-solidity-a-must-know-technique-2oad)
 - [How to Code a PayNow Function with Solidity: The 3 Must-Know Smart Contract Methods](https://dev.to/daltonic/how-to-code-a-paynow-function-with-solidity-the-3-must-know-smart-contract-methods-13i0)
 - [How to Code Your First Smart Contract with Solidity](https://dev.to/daltonic/how-to-code-your-first-smart-contract-with-solidity-52ih)
 - [How To Build A Classic Web3 NFT Minting Dapp with React and Solidity: Part 2](https://dev.to/daltonic/how-to-build-a-classic-web3-nft-minting-dapp-with-react-and-solidity-part-2-59la)
-- [How To Build A Classic Web3 NFT Minting Dapp with React and Solidity: Part 1](https://dev.to/daltonic/how-to-build-a-classic-web3-nft-minting-dapp-with-react-and-solidity-part-1-4ag)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
