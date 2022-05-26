@@ -1,15 +1,17 @@
 ![Banner](https://i.ibb.co/rZRJvzS/online-classes.png)
 
 <h1 align="center">Hi 👋, I'm Gospel Darlington</h1>
-<h3 align="center">A remote Software Engineer prolific with ReactJs, ReactNative, VueJs, and Blockchain.</h3>
+<h3 align="center">A Blockchain developer teaching and helping people enter or transition from Web 2.0 to Web 3.0 development.</h3>
 
-- 🌱 I’m currently applying **Blockchain Technologies** to my app development
+- 🌱 I’m tutoring on **Blockchain Development** 
+
+- 🗓️ [Book a class here](https://daltonic.github.io/#mh-pricing) then [Schedule a session here](https://calendly.com/darlingtongospel/60min)
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
 - 📝 I regularly write articles on [https://dev.to/daltonic](https://dev.to/daltonic)
 
-- 💬 Ask me about **Web and Mobile App Development**
+- 💬 Ask me about **Blockchain Development**
 
 - 📫 How to reach me **darlingtongospel@gmail.com**
 
