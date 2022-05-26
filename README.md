@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Blockchain Development**
 
-- 📫 How to reach me **[darlingtongospel@gmail.com](mailto:darlingtongospel@gmail.com?body=Hi Daltonic, I was browsing your website and wanted to connect.&subject=Partnership Proposal)**
+- 📫 How to reach me **darlingtongospel@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://daltonic.github.io/assets/Resume-Darlington-Gospel.pdf)
 
