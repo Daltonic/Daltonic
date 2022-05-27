@@ -1,11 +1,11 @@
 ![Banner](https://i.ibb.co/rZRJvzS/online-classes.png)
 
 <h1 align="center">Hi 👋, I'm Gospel Darlington</h1>
-<h3 align="center">A Blockchain developer teaching and helping people enter or transition from Web 2.0 to Web 3.0 development.</h3>
+<h3 align="center">A Blockchain developer teaching and helping people enter and transition from Web 2.0 to Web 3.0 development.</h3>
 
 - 🌱 I’m tutoring on **Blockchain Development** 
 
-- 🗓️ [Book a class here](https://daltonic.github.io/#mh-pricing) then [Schedule a session here](https://calendly.com/darlingtongospel/60min)
+- 🗓️ [Book you classes here](https://daltonic.github.io/#mh-pricing) then [Schedule your sessions here](https://calendly.com/darlingtongospel/60min)
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
