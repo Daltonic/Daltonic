@@ -19,8 +19,6 @@
 
 - ⚡ Fun fact **I've a good sense of humor**
 
-- [Become a Patron!](https://www.patreon.com/bePatron?u=69050536)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Code an Escrow Smart Contract: The Secured Approach](https://dev.to/daltonic/how-to-code-an-escrow-smart-contract-the-secured-approach-4860)
