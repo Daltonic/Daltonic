@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I've a good sense of humor**
 
-<a href="https://www.patreon.com/bePatron?u=69050536" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+- [Become a Patron!](https://www.patreon.com/bePatron?u=69050536)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
