@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://daltonic.github.io/assets/Resume-Darlington-Gospel.pdf)
 
-- [Book a Private Class with Me](https://www.buymeacoffee.com/web3classes)
+- You want to learn from a Mentor? [Book your Private Web 3.0 Classes with Me](https://www.buymeacoffee.com/web3classes)
 
 - ⚡ Fun fact **I've a good sense of humor**
 
