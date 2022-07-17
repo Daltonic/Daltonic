@@ -5,7 +5,7 @@
 
 - 🌱 I’m tutoring on **Blockchain Development** 
 
-- 🗓️ [Schedule your sessions with me here](https://www.buymeacoffee.com/web3classes/e/78962)
+- 🗓️ Do you need help with a problem? [Schedule Your Sessions with Me](https://www.buymeacoffee.com/web3classes/e/78962)
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
