@@ -5,7 +5,7 @@
 
 - 🌱 I’m tutoring on **Blockchain Development** 
 
-- 🗓️ [Book you classes here](https://daltonic.github.io/#mh-pricing) then [Schedule your sessions here](https://calendly.com/darlingtongospel/60min)
+- 🗓️ [Schedule your sessions with me here](https://www.buymeacoffee.com/web3classes/e/78962)
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://daltonic.github.io/assets/Resume-Darlington-Gospel.pdf)
 
-- You want to learn from a Mentor? [Book your Private Web 3.0 Classes with Me](https://www.buymeacoffee.com/web3classes)
+- You want to learn from a Mentor? [Book your Private Web 3.0 Classes with Me](https://www.buymeacoffee.com/web3classes/e/74614)
 
 - ⚡ Fun fact **I've a good sense of humor**
 
