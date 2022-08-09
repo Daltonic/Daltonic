@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **I've a good sense of humor**
 
+### YouTube videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Code a Fantastic Batch Payment Function with Solidity: A Must Know Technique](https://dev.to/daltonic/how-to-code-a-fantastic-batch-payment-function-with-solidity-a-must-know-technique-2oad)
