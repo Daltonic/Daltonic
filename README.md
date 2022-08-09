@@ -1,19 +1,23 @@
-![Header Image](https://i.ibb.co/dDt9jdQ/linkedin-cover-4.png)
+![Banner](https://i.ibb.co/rZRJvzS/online-classes.png)
 
 <h1 align="center">Hi 👋, I'm Gospel Darlington</h1>
-<h3 align="center">A remote Software Engineer prolific with ReactJs, ReactNative, VueJs, and Blockchain.</h3>
+<h3 align="center">A Blockchain developer teaching and helping people enter and transition from Web 2.0 to Web 3.0 development.</h3>
 
-- 🌱 I’m currently applying **Blockchain Technologies** to my app development
+- 🌱 I’m tutoring on **Blockchain Development** 
+
+- 🗓️ Do you need help with a problem? [Schedule Your Sessions with Me](https://www.buymeacoffee.com/web3classes/e/78962)
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
 - 📝 I regularly write articles on [https://dev.to/daltonic](https://dev.to/daltonic)
 
-- 💬 Ask me about **Web and Mobile App Development**
+- 💬 Ask me about **Blockchain Development**
 
 - 📫 How to reach me **darlingtongospel@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://daltonic.github.io/assets/Resume-Darlington-Gospel.pdf)
+
+- You want to learn from a Mentor? [Book your Private Web 3.0 Classes with Me](https://www.buymeacoffee.com/web3classes/e/74614)
 
 - ⚡ Fun fact **I've a good sense of humor**
 
@@ -23,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Profitable NFT Marketplace with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-profitable-nft-marketplace-with-react-solidity-and-cometchat-2051)
+- [How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-glorious-web30-dao-with-react-solidity-and-cometchat-13ab)
+- [How to Code an Escrow Smart Contract: The Secured Approach](https://dev.to/daltonic/how-to-code-an-escrow-smart-contract-the-secured-approach-4860)
+- [How to Code Solidity Smart Contract CRUD Functions: The Right Way](https://dev.to/daltonic/how-to-code-solidity-smart-contract-crud-functions-the-right-way-3h31)
 - [How to Code a Fantastic Batch Payment Function with Solidity: A Must Know Technique](https://dev.to/daltonic/how-to-code-a-fantastic-batch-payment-function-with-solidity-a-must-know-technique-2oad)
-- [How to Code a PayNow Function with Solidity: The 3 Must-Know Smart Contract Methods](https://dev.to/daltonic/how-to-code-a-paynow-function-with-solidity-the-3-must-know-smart-contract-methods-13i0)
-- [How to Code Your First Smart Contract with Solidity](https://dev.to/daltonic/how-to-code-your-first-smart-contract-with-solidity-52ih)
-- [How To Build A Classic Web3 NFT Minting Dapp with React and Solidity: Part 2](https://dev.to/daltonic/how-to-build-a-classic-web3-nft-minting-dapp-with-react-and-solidity-part-2-59la)
-- [How To Build A Classic Web3 NFT Minting Dapp with React and Solidity: Part 1](https://dev.to/daltonic/how-to-build-a-classic-web3-nft-minting-dapp-with-react-and-solidity-part-1-4ag)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
