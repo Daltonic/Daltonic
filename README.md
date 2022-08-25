@@ -27,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-awesome-web3-crowd-funding-platform-with-react-solidity-and-cometchat-13fg)
 - [How to Build a Profitable NFT Marketplace with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-profitable-nft-marketplace-with-react-solidity-and-cometchat-2051)
 - [How to Build a Glorious Web3.0 DAO with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-glorious-web30-dao-with-react-solidity-and-cometchat-13ab)
 - [How to Code an Escrow Smart Contract: The Secured Approach](https://dev.to/daltonic/how-to-code-an-escrow-smart-contract-the-secured-approach-4860)
 - [How to Code Solidity Smart Contract CRUD Functions: The Right Way](https://dev.to/daltonic/how-to-code-solidity-smart-contract-crud-functions-the-right-way-3h31)
-- [How to Code a Fantastic Batch Payment Function with Solidity: A Must Know Technique](https://dev.to/daltonic/how-to-code-a-fantastic-batch-payment-function-with-solidity-a-must-know-technique-2oad)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
