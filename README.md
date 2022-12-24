@@ -27,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Consequences of Giving Up Control Over Visa’s Cryptocurrency Payments](https://dev.to/daltonic/the-consequences-of-giving-up-control-over-visas-cryptocurrency-payments-1oba)
 - [How to Build an Exciting Blockchain Voting System with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-exciting-blockchain-voting-system-with-react-solidity-and-cometchat-321p)
 - [How to Build a Fantastic Web3 Games Shop with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-fantastic-web3-games-shop-with-react-solidity-and-cometchat-50mj)
 - [How to Richly Preprocess your IPFS NFT Images and Metadata](https://dev.to/daltonic/how-to-richly-preprocess-your-ipfs-nft-images-and-metadata-p1g)
 - [How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-awesome-web3-crowd-funding-platform-with-react-solidity-and-cometchat-13fg)
-- [How to Build a Profitable NFT Marketplace with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-profitable-nft-marketplace-with-react-solidity-and-cometchat-2051)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
