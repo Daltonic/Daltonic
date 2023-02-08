@@ -27,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Send Ethers Programmatically without Metamask](https://dev.to/daltonic/how-to-send-ethers-programmatically-without-metamask-32n9)
 - [Raffle Draws on the Ethereum Blockchain: A Beginner&#39;s Guide](https://dev.to/daltonic/raffle-draws-on-the-ethereum-blockchain-a-beginners-guide-29o2)
 - [How to Build an NFT Auction Site with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-nft-auction-site-with-react-solidity-and-cometchat-1om2)
 - [The Consequences of Giving Up Control Over Visa’s Cryptocurrency Payments](https://dev.to/daltonic/the-consequences-of-giving-up-control-over-visas-cryptocurrency-payments-1oba)
 - [How to Build an Exciting Blockchain Voting System with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-exciting-blockchain-voting-system-with-react-solidity-and-cometchat-321p)
-- [How to Build a Fantastic Web3 Games Shop with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-fantastic-web3-games-shop-with-react-solidity-and-cometchat-50mj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
