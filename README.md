@@ -27,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Transparent and Secure Lottery DApp with NextJs, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-transparent-and-secure-lottery-dapp-with-nextjs-solidity-and-cometchat-1o9m)
 - [How to Build a Web3 Airbnb 2.0 Clone with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-web3-airbnb-20-clone-with-react-solidity-and-cometchat-377l)
 - [How to Load Unlimited Free Ethers to Metamask Wallet](https://dev.to/daltonic/how-to-load-unlimited-free-ethers-to-metamask-wallet-86k)
 - [How to Build an Answer-to-Earn Platform with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-an-answer-to-earn-platform-with-react-solidity-and-cometchat-2hj2)
 - [How to Send Ethers Programmatically without Metamask](https://dev.to/daltonic/how-to-send-ethers-programmatically-without-metamask-32n9)
-- [Raffle Draws on the Ethereum Blockchain: A Beginner&#39;s Guide](https://dev.to/daltonic/raffle-draws-on-the-ethereum-blockchain-a-beginners-guide-29o2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
