@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Gospel Darlington</h1>
 <h3 align="center">A Blockchain developer teaching and helping people enter and transition from Web 2.0 to Web 3.0 development.</h3>
 
-- 🌱 I’m tutoring on **Blockchain Development** 
-
-- 🗓️ Do you need help with a problem? [Schedule Your Sessions with Me](https://www.buymeacoffee.com/web3classes/e/78962)
+- 🌱 I’m mentoring developers on **Web3 Development** 
 
 - 👨‍💻 All of my projects are available at [https://daltonic.github.io](https://daltonic.github.io)
 
 - 📝 I regularly write articles on [https://dev.to/daltonic](https://dev.to/daltonic)
 
-- 💬 Ask me about **Blockchain Development**
+- 💬 Ask me about **Web3 Development**
 
 - 📫 How to reach me **darlingtongospel@gmail.com**
 
