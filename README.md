@@ -27,11 +27,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat](https://dev.to/daltonic/build-a-decentralized-voting-dapp-with-nextjs-typescript-tailwind-css-and-cometchat-2kel)
 - [How to Build a Web3 Play-To-Earn Money Dapp with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-web3-play-to-earn-money-dapp-with-react-solidity-and-cometchat-4833)
 - [How to Build a Web3 NFT Cross-Breeding Dapp with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-web3-nft-cross-breeding-dapp-with-react-solidity-and-cometchat-3nk3)
 - [How to Build a Cinema Ticket Booking Dapp with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-cinema-ticket-booking-dapp-with-react-solidity-and-cometchat-404k)
 - [How to Build a Transparent and Secure Lottery DApp with NextJs, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-transparent-and-secure-lottery-dapp-with-nextjs-solidity-and-cometchat-1o9m)
-- [How to Build a Web3 Airbnb 2.0 Clone with React, Solidity, and CometChat](https://dev.to/daltonic/how-to-build-a-web3-airbnb-20-clone-with-react-solidity-and-cometchat-377l)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
