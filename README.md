@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity](https://dev.to/daltonic/how-to-build-a-web3-events-marketplace-with-nextjs-typescript-and-solidity-498h)
 - [How to Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity](https://dev.to/daltonic/how-to-build-a-web3-play-to-earn-platform-with-nextjs-typescript-and-solidity-3l5k)
 - [How to Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://dev.to/daltonic/how-to-build-a-decentralized-house-rental-platform-with-nextjs-redux-and-solidity-329a)
 - [How to Build a Decentralized Charity Platform with Next.js, TypeScript, and Solidity](https://dev.to/daltonic/how-to-build-a-decentralized-charity-platform-with-nextjs-typescript-and-solidity-52g4)
 - [Build a Decentralized Freelancer Marketplace with React, Solidity, and CometChat](https://dev.to/daltonic/build-a-decentralized-freelancer-marketplace-with-react-solidity-and-cometchat-40jf)
-- [Build a Decentralized Voting Dapp with Next.js, TypeScript, Tailwind CSS, and CometChat](https://dev.to/daltonic/build-a-decentralized-voting-dapp-with-nextjs-typescript-tailwind-css-and-cometchat-2kel)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
