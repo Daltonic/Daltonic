@@ -1,12 +1,12 @@
 name: Update YouTube Videos
 
 on:
- # schedule:
- #   - cron: '0 0 * * *' # This will run the workflow every day at midnight
- workflow_dispatch: # This allows you to manually trigger the workflow from GitHub's UI
+  # schedule:
+  #   - cron: '0 0 * * *' # This will run the workflow every day at midnight
+  workflow_dispatch: # This allows you to manually trigger the workflow from GitHub's UI
 
 jobs:
- update-videos:
+  update-videos:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -21,6 +21,10 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+        working-directory: ./path/to/your/requirements.txt
+
+      - name: List directory contents
+        run: ls -la
 
       - name: Fetch YouTube videos
         run: python .github/scripts/fetch_youtube_videos.py
