@@ -7,6 +7,11 @@ def update_readme():
     # Path to the README.md file
     readme_path = "README.md"
 
+    # Check if the latest_videos.json file exists, if not, create it
+    if not os.path.exists(latest_videos_path):
+        with open(latest_videos_path, "w+") as file:
+            file.write("[]") # Initialize the file with an empty JSON array
+
     # Load the latest videos from the JSON file
     with open(latest_videos_path, "r") as file:
         videos = json.load(file)
