@@ -1,5 +1,33 @@
 ## Latest Videos
 
+
+        <a href="https://www.youtube.com/watch?v=Q5nUjwEB6Gk" target="_blank">
+            <img src="https://i.ytimg.com/vi/Q5nUjwEB6Gk/default.jpg" alt="Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity" width="200" height="113">
+        </a>
+        <h3><a href="https://www.youtube.com/watch?v=Q5nUjwEB6Gk" target="_blank">Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity</a></h3>
+        
+        <a href="https://www.youtube.com/watch?v=zi_6RWkOB1w" target="_blank">
+            <img src="https://i.ytimg.com/vi/zi_6RWkOB1w/default.jpg" alt="Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity" width="200" height="113">
+        </a>
+        <h3><a href="https://www.youtube.com/watch?v=zi_6RWkOB1w" target="_blank">Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity</a></h3>
+        
+        <a href="https://www.youtube.com/watch?v=Qoa6z6c_wYQ" target="_blank">
+            <img src="https://i.ytimg.com/vi/Qoa6z6c_wYQ/default.jpg" alt="Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity" width="200" height="113">
+        </a>
+        <h3><a href="https://www.youtube.com/watch?v=Qoa6z6c_wYQ" target="_blank">Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity</a></h3>
+        
+        <a href="https://www.youtube.com/watch?v=wPkP6esWUaA" target="_blank">
+            <img src="https://i.ytimg.com/vi/wPkP6esWUaA/default.jpg" alt="Build a Decentralized Charity Platform with Next js, TypeScript, and Solidity" width="200" height="113">
+        </a>
+        <h3><a href="https://www.youtube.com/watch?v=wPkP6esWUaA" target="_blank">Build a Decentralized Charity Platform with Next js, TypeScript, and Solidity</a></h3>
+        
+        <a href="https://www.youtube.com/watch?v=8LpFXyYC5UM" target="_blank">
+            <img src="https://i.ytimg.com/vi/8LpFXyYC5UM/default.jpg" alt="Task 3: Dapp Mentors x Bitfinity" width="200" height="113">
+        </a>
+        <h3><a href="https://www.youtube.com/watch?v=8LpFXyYC5UM" target="_blank">Task 3: Dapp Mentors x Bitfinity</a></h3>
+        
+## Latest Videos
+
 - [Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity](https://www.youtube.com/watch?v=Q5nUjwEB6Gk)
 - [Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity](https://www.youtube.com/watch?v=zi_6RWkOB1w)
 - [Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://www.youtube.com/watch?v=Qoa6z6c_wYQ)
