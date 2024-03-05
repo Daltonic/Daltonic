@@ -31,9 +31,6 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }} # Pass the API key as an environment variable
           YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }} # Pass the channel ID as an environment variable
 
-      - name: Update README.md
-        run: python .github/scripts/update_readme.py
-
       - name: Commit and push changes
         run: |
           git config --global user.name 'GitHub Action'
