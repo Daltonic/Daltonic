@@ -21,20 +21,28 @@ def fetch_videos(api_key, channel_id):
   return response['items']
 
 def update_readme(videos):
-  readme_path = "README.md"
-  with open(readme_path, "r") as file:
-      content = file.read()
+    readme_path = "README.md"
+    with open(readme_path, "r") as file:
+        content = file.read()
 
-  # Modify the content to include the video information
-  # This is a simple example; you'll need to adjust it based on your README structure
-  new_content = "## Latest Videos\n\n"
-  for video in videos:
-      new_content += f"- [{video['snippet']['title']}](https://www.youtube.com/watch?v={video['id']['videoId']})\n"
+    # Modify the content to include the video information in a card format
+    new_content = "## Latest Videos\n\n"
+    for video in videos:
+        video_title = video['snippet']['title']
+        video_id = video['id']['videoId']
+        video_url = f"https://www.youtube.com/watch?v={video_id}"
+        video_thumbnail = video['snippet']['thumbnails']['default']['url']
+        new_content += f"""
+        <a href="{video_url}" target="_blank">
+            <img src="{video_thumbnail}" alt="{video_title}" width="200" height="113">
+        </a>
+        <h3><a href="{video_url}" target="_blank">{video_title}</a></h3>
+        """
 
-  content = new_content + "\n" + content
+    content = new_content + "\n" + content
 
-  with open(readme_path, "w") as file:
-      file.write(content)
+    with open(readme_path, "w") as file:
+        file.write(content)
 
 def main():
   api_key = os.getenv("YOUTUBE_API_KEY") # Access the API key from the environment variable
