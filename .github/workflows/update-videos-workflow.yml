@@ -1,8 +1,8 @@
 name: Update YouTube Videos
 
 on:
-  # schedule:
-  #   - cron: '0 0 * * *' # This will run the workflow every day at midnight
+  schedule:
+    - cron: '0 0 * * *' # This will run the workflow every day at midnight
   workflow_dispatch: # This allows you to manually trigger the workflow from GitHub's UI
 
 jobs:

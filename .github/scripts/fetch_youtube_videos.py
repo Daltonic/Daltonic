@@ -38,17 +38,26 @@ def update_readme(videos):
     print("Markers not found in README.md")
     return
 
-  # Extract information from each video dictionary and create a string to join
-  video_list = []
+  # Format the videos as cards with thumbnails and titles
+  video_cards = []
   for video in videos:
-    video_list.append(
-        f"- [{video['snippet']['title']}](https://www.youtube.com/watch?v={video['id']['videoId']})"
-    )
-  new_content = "\n".join(video_list)
+    video_title = video['snippet']['title']
+    video_id = video['id']['videoId']
+    video_cards.append(
+        f'<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;">'
+        f'<a href="https://www.youtube.com/watch?v={video_id}">'
+        f'<img src="https://img.youtube.com/vi/{video_id}/0.jpg" alt="{video_title}" width="200"/>'
+        f'<p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">{video_title}</p>'
+        f'</a>'
+        f'</div>')
+  new_content = "\n".join(video_cards)
+
+  # Wrap the video cards in a grid container
+  grid_container = f'<div class="video-grid" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">{new_content}</div>'
 
   # Modify the content to include the video information between the markers
   content = content[:start_index + len(start_marker) +
-                    1] + "\n" + new_content + "\n" + content[end_index:]
+                    1] + "\n" + grid_container + "\n" + content[end_index:]
 
   # Write the updated content back to the README.md file
   with open(readme_path, "w") as file:
