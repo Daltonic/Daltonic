@@ -1,11 +1,3 @@
-## Latest Videos
-
-- [Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity](https://www.youtube.com/watch?v=Q5nUjwEB6Gk)
-- [Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity](https://www.youtube.com/watch?v=zi_6RWkOB1w)
-- [Build a Decentralized House Rental Platform with Next.js, Redux, and Solidity](https://www.youtube.com/watch?v=Qoa6z6c_wYQ)
-- [Build a Decentralized Charity Platform with Next js, TypeScript, and Solidity](https://www.youtube.com/watch?v=wPkP6esWUaA)
-- [Task 3: Dapp Mentors x Bitfinity](https://www.youtube.com/watch?v=8LpFXyYC5UM)
-
 ![Banner](./images/0.png)
 
 <h1 align="center">Hi 👋, I'm Darlington Gospel</h1>
