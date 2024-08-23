@@ -37,11 +37,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part Three](https://dev.to/daltonic/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-three-38ei)
+- [Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part Two](https://dev.to/daltonic/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-two-4cgm)
+- [Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part One](https://dev.to/daltonic/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-one-5338)
 - [How to Learn Blockchain Development: A Step-by-Step Guide](https://dev.to/daltonic/how-to-learn-blockchain-development-a-step-by-step-guide-30ek)
 - [Data-Driven Dapps Storage: Filecoin, Sia, &amp; Arweave Compared](https://dev.to/daltonic/data-driven-dapps-storage-filecoin-sia-arweave-compared-g78)
-- [Top Smart Contract Languages in 2024: Solidity, Rust, Motoko](https://dev.to/daltonic/top-smart-contract-languages-in-2024-solidity-rust-motoko-1i87)
-- [How to Build a Web3 Events Marketplace with Next.js, Typescript, and Solidity](https://dev.to/daltonic/how-to-build-a-web3-events-marketplace-with-nextjs-typescript-and-solidity-498h)
-- [How to Build a Web3 Play-To-Earn Platform with Next.js, Typescript, and Solidity](https://dev.to/daltonic/how-to-build-a-web3-play-to-earn-platform-with-nextjs-typescript-and-solidity-3l5k)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
