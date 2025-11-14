@@ -17,7 +17,7 @@
 </p>
 
 - 🌱 Specializing in Blockchain and Fullstack Software Development, Technical Instruction, and Content Creation
-- 👨‍💻 Over 8 years of experience in software development, with a focus on blockchain technology since 2020
+- 👨‍💻 Over 9 years of experience in software development, with a focus on blockchain technology since 2020
 - 📝 Authored over 40 articles, developed premium courses, and published a book on blockchain, web3, and DeFi
 - 💻 Expertise in JavaScript, Redux.js, React.js, React Native, Next.js, PHP, Node.js, Python, Solidity, and API Development
 - 🚀 Led projects like Dapp Mentors Academy and am spearheading a decentralized educational platform with Sia
