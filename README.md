@@ -1,7 +1,7 @@
 ![Banner](./images/0.png)
 
 <h1 align="center">Hi 👋, I'm Darlington Gospel</h1>
-<h3 align="center">Founder & CEO of Dapp Mentors | Pioneering Blockchain Development, Education, Web3, and DeFi</h3>
+<h3 align="center">Founder & CEO at Dapp Mentors | YouTuber | AI | Blockchain | Educator</h3>
 
 <!-- Social icons section -->
 <p align="center">
