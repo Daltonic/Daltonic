@@ -57,11 +57,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Would Build an Autonomous Pharmaceutical Retail Chain Operating System](https://dev.to/daltonic/how-i-would-build-an-autonomous-pharmaceutical-retail-chain-operating-system-5be5)
 - [What You Need to Build an Automated AI Crypto Trading Bot](https://dev.to/daltonic/what-you-need-to-build-an-automated-ai-crypto-trading-bot-47fa)
 - [Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part Three](https://dev.to/daltonic/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-three-38ei)
 - [Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part Two](https://dev.to/daltonic/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-two-4cgm)
 - [Build a Web3 Movie Streaming dApp using NextJs, Tailwind, and Sia Renterd: Part One](https://dev.to/daltonic/build-a-web3-movie-streaming-dapp-using-nextjs-tailwind-and-sia-renterd-part-one-5338)
-- [How to Learn Blockchain Development: A Step-by-Step Guide](https://dev.to/daltonic/how-to-learn-blockchain-development-a-step-by-step-guide-30ek)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
