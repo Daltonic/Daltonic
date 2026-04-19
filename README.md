@@ -1,7 +1,7 @@
 ![Banner](./images/3.png)
 
 <h1 align="center">Hi 👋, I'm Darlington Gospel</h1>
-<h3 align="center">Building Scalable Autonomous Infrastructure | Founder @ Dapp Mentors | AI + Blockchain Systems Architect</h3>
+<h3 align="center">I design AI-powered, blockchain-secured, fully autonomous systems that run businesses at enterprise scale — zero human intervention, on-chain trust, and real revenue impact.</h3>
 
 <!-- Social icons section -->
 <p align="center">
@@ -15,10 +15,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/daltonic"><img width="32px" alt="Dev.to" title="Daltonic" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
-
-<div align="center">
-  <p><strong>I design AI-powered, blockchain-secured, fully autonomous systems that run businesses at enterprise scale — zero human intervention, on-chain trust, and real revenue impact.</strong></p>
-</div>
 
 - 🚀 **Founder & CEO of Dapp Mentors** — Architecting the next generation of autonomous infrastructure for pharma retail, ride-sharing, REITs, fintech, and beyond
 - 🔧 Specializing in **AI + Blockchain + Automation** systems: AI agents executing Nasdaq-scale trades, on-chain settlements in <3 seconds, 99.95% uptime platforms with zero trust gaps
