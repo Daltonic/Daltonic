@@ -142,7 +142,7 @@ Grouped the way I actually hire myself into projects — not a random icon dump.
 ### Writing
 <!-- BLOG-POST-LIST:START -->
 - [What It Actually Costs to Run an Autonomous Pharmaceutical Chain on a 5-Branch Pilot](https://dev.to/daltonic/what-it-actually-costs-to-run-an-autonomous-pharmaceutical-chain-on-a-5-branch-pilot-eo6)
-- [How I Would Modernize Ride-Share with AI, Blockchain & Automation](https://dev.to/daltonic/how-i-would-modernize-ride-share-with-ai-blockchain-automation-42j4)
+- [How I Would Modernize Ride-Share with AI, Blockchain &amp; Automation](https://dev.to/daltonic/how-i-would-modernize-ride-share-with-ai-blockchain-automation-42j4)
 - [How I Would Design an Autonomous REIT that Pays Monthly Dividends](https://dev.to/daltonic/how-i-would-design-an-autonomous-reit-that-pays-monthly-dividends-3ngg)
 - [How I Would Build an Autonomous Pharmaceutical Retail Chain Operating System](https://dev.to/daltonic/how-i-would-build-an-autonomous-pharmaceutical-retail-chain-operating-system-5be5)
 - [What You Need to Build an Automated AI Crypto Trading Bot](https://dev.to/daltonic/what-you-need-to-build-an-automated-ai-crypto-trading-bot-47fa)
