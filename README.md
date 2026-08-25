@@ -8,34 +8,28 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio.dappmentors.org"><img src="https://img.shields.io/badge/Portfolio-portfolio.dappmentors.org-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://dappmentors.org/consult"><img src="https://img.shields.io/badge/Book_a_consult-dappmentors.org-0A66C2?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Consult"/></a>
-  <a href="https://dappmentors.org"><img src="https://img.shields.io/badge/Dapp_Mentors-School_%26_Studio-6f42c1?style=for-the-badge&logo=youtube&logoColor=white" alt="Dapp Mentors"/></a>
+  <a href="https://portfolio.dappmentors.org"><img src="https://img.shields.io/badge/Portfolio-portfolio.dappmentors.org-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://dappmentors.org/consult"><img src="https://img.shields.io/badge/Book_a_consult-dappmentors.org-1d4ed8?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Consult"/></a>
+  <a href="https://dappmentors.org"><img src="https://img.shields.io/badge/Dapp_Mentors-School_%26_Studio-7c3aed?style=for-the-badge&logo=youtube&logoColor=white" alt="Dapp Mentors"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/10%2B_years-building-24292f?style=flat-square" alt="10+ years"/>
-  <img src="https://img.shields.io/badge/5%2C800%2B-YouTube_subscribers-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
-  <img src="https://img.shields.io/badge/140%2B-tutorials-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Tutorials"/>
-  <img src="https://img.shields.io/badge/45%2B-articles-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Articles"/>
-  <img src="https://img.shields.io/badge/Remote-Port_Harcourt%2C_NG-2ea44f?style=flat-square" alt="Remote"/>
+  <img src="https://img.shields.io/badge/10%2B_years-building-0f172a?style=flat-square&labelColor=1e293b&color=38bdf8" alt="10+ years"/>
+  <img src="https://img.shields.io/badge/5%2C800%2B-YouTube-0f172a?style=flat-square&labelColor=1e293b&color=ef4444&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/140%2B-tutorials-0f172a?style=flat-square&labelColor=1e293b&color=f97316" alt="Tutorials"/>
+  <img src="https://img.shields.io/badge/45%2B-articles-0f172a?style=flat-square&labelColor=1e293b&color=a78bfa" alt="Articles"/>
+  <img src="https://img.shields.io/badge/Remote-Port_Harcourt%2C_NG-0f172a?style=flat-square&labelColor=1e293b&color=22c55e" alt="Remote"/>
 </p>
 
-<!-- Social icons section -->
 <p align="center">
-  <a href="https://youtube.com/@dappmentors"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://linkedin.com/in/darlington-gospel"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/iDaltonic"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/PgFDUVT6n9" alt="Discord" title="Dapp Mentors Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/daltonic"><img width="32px" alt="Dev.to" title="Daltonic" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@darlingtongospel"><img width="32px" alt="Medium" title="Medium" src="https://cdn.simpleicons.org/medium/000000"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://hackernoon.com/u/daltonic"><img width="32px" alt="HackerNoon" title="HackerNoon" src="https://cdn.simpleicons.org/hackernoon/00FF00"/></a>
+  <a href="https://www.youtube.com/@dappmentors"><img src="https://img.shields.io/badge/-YouTube-ef4444?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/darlington-gospel/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/iDaltonic"><img src="https://img.shields.io/badge/-X-111827?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://discord.gg/PgFDUVT6n9"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://dev.to/daltonic"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://medium.com/@darlingtongospel"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://hackernoon.com/u/daltonic"><img src="https://img.shields.io/badge/-HackerNoon-00FF00?style=flat-square&logo=hackernoon&logoColor=black" alt="HackerNoon"/></a>
+  <a href="https://github.com/Daltonic"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -56,8 +50,8 @@ I write the code, put it on a public network or a real server, then turn that pa
 **Open for** full-time, contract, or consult work in those four seats. Prefer teams that care about shipping over slide decks.
 
 <p align="center">
-  <a href="https://dappmentors.org/consult"><img src="https://img.shields.io/badge/Talk_to_me-Book_a_discovery_call-111111?style=for-the-badge" alt="Book a call"/></a>
-  <a href="https://portfolio.dappmentors.org/#resumes"><img src="https://img.shields.io/badge/Resumes-5_role_specific_PDFs-24292f?style=for-the-badge" alt="Resumes"/></a>
+  <a href="https://dappmentors.org/consult"><img src="https://img.shields.io/badge/Talk_to_me-Book_a_discovery_call-1d4ed8?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"/></a>
+  <a href="https://portfolio.dappmentors.org/#resumes"><img src="https://img.shields.io/badge/Resumes-5_role_specific_PDFs-0f172a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resumes"/></a>
 </p>
 
 ---
@@ -81,68 +75,37 @@ Built by me, not only taught by me. Detail and stack notes sit on the [portfolio
 
 ### Stack
 
-Grouped the way I actually hire myself into projects — not a random icon dump.
+Grouped the way I actually hire myself into projects.
 
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,tailwind,nodejs,fastapi,postgres,docker,solidity&theme=dark" alt="Core stack" />
 </p>
 
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/wagmi%20%2F%20viem-000000?style=for-the-badge&logo=ethereum&logoColor=white" alt="wagmi"/>
-</p>
-
-**AI**
-
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/CrewAI-111111?style=for-the-badge" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20Chroma-FF6F61?style=for-the-badge" alt="RAG"/>
-</p>
-
-**Blockchain & backend**
-
-<p>
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat"/>
-  <img src="https://img.shields.io/badge/Anchor-512BD4?style=for-the-badge&logo=solana&logoColor=white" alt="Anchor"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</p>
+**Languages** · TypeScript · JavaScript · Python · Solidity · Rust  
+**Frontend** · React · Next.js · Tailwind · wagmi / viem  
+**AI** · OpenAI · LangChain · CrewAI · Ollama · RAG / Chroma  
+**Chain & backend** · Hardhat · Anchor · FastAPI · Node.js · PostgreSQL · Docker
 
 ---
 
 ### YouTube videos
 <!-- YOUTUBE:START -->
 
-<div class="video-grid" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;"><div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=-jp8i0oOXqk"><img src="https://img.youtube.com/vi/-jp8i0oOXqk/0.jpg" alt="The Enterprise AI Race Has Shifted to Orchestration & Attestation | Ep 10" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">The Enterprise AI Race Has Shifted to Orchestration & Attestation | Ep 10</p></a></div>
-<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=c72EhAT_3uU"><img src="https://img.youtube.com/vi/c72EhAT_3uU/0.jpg" alt="How I Would Build an AI-Powered Operating System for Multi-Branch Businesses | Ep 09" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">How I Would Build an AI-Powered Operating System for Multi-Branch Businesses | Ep 09</p></a></div>
-<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=m5K4qDl7T8M"><img src="https://img.youtube.com/vi/m5K4qDl7T8M/0.jpg" alt="How I Would Automate Traditional Business Operations with AI, Blockchain & Automation | Ep 08" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">How I Would Automate Traditional Business Operations with AI, Blockchain & Automation | Ep 08</p></a></div>
-<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=VPg6Qw_AHs8"><img src="https://img.youtube.com/vi/VPg6Qw_AHs8/0.jpg" alt="How I Would Automate Venture Capital with AI, Blockchain & Automation | Ep 07" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">How I Would Automate Venture Capital with AI, Blockchain & Automation | Ep 07</p></a></div>
-<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=O_3nhmIux28"><img src="https://img.youtube.com/vi/O_3nhmIux28/0.jpg" alt="The Assistive Era is Dead: Rebuilding Stacks for Autonomous AI Agents | Ep 06" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">The Assistive Era is Dead: Rebuilding Stacks for Autonomous AI Agents | Ep 06</p></a></div></div>
+<div class="video-grid" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;"><div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=-jp8i0oOXqk"><img src="https://img.youtube.com/vi/-jp8i0oOXqk/hqdefault.jpg" alt="The Enterprise AI Race Has Shifted to Orchestration & Attestation | Ep 10" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">The Enterprise AI Race Has Shifted to Orchestration & Attestation | Ep 10</p></a></div>
+<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=c72EhAT_3uU"><img src="https://img.youtube.com/vi/c72EhAT_3uU/hqdefault.jpg" alt="How I Would Build an AI-Powered Operating System for Multi-Branch Businesses | Ep 09" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">How I Would Build an AI-Powered Operating System for Multi-Branch Businesses | Ep 09</p></a></div>
+<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=m5K4qDl7T8M"><img src="https://img.youtube.com/vi/m5K4qDl7T8M/hqdefault.jpg" alt="How I Would Automate Traditional Business Operations with AI, Blockchain & Automation | Ep 08" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">How I Would Automate Traditional Business Operations with AI, Blockchain & Automation | Ep 08</p></a></div>
+<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=VPg6Qw_AHs8"><img src="https://img.youtube.com/vi/VPg6Qw_AHs8/hqdefault.jpg" alt="How I Would Automate Venture Capital with AI, Blockchain & Automation | Ep 07" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">How I Would Automate Venture Capital with AI, Blockchain & Automation | Ep 07</p></a></div>
+<div class="video-card" style="width: 200px; border: 1px solid lightgray; border-radius: 10px; overflow: hidden;"><a href="https://www.youtube.com/watch?v=O_3nhmIux28"><img src="https://img.youtube.com/vi/O_3nhmIux28/hqdefault.jpg" alt="The Assistive Era is Dead: Rebuilding Stacks for Autonomous AI Agents | Ep 06" width="200"/><p style="word-wrap: break-word; max-width: 100%; padding: 0 10px;">The Assistive Era is Dead: Rebuilding Stacks for Autonomous AI Agents | Ep 06</p></a></div></div>
 <!-- YOUTUBE:END -->
 
 <p align="center">
-  <a href="https://www.youtube.com/@dappmentors"><img src="https://img.shields.io/badge/Watch_more-@dappmentors-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"/></a>
+  <a href="https://www.youtube.com/@dappmentors"><img src="https://img.shields.io/badge/Watch_more-@dappmentors-ef4444?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel"/></a>
 </p>
 
 ### Writing
 <!-- BLOG-POST-LIST:START -->
 - [What It Actually Costs to Run an Autonomous Pharmaceutical Chain on a 5-Branch Pilot](https://dev.to/daltonic/what-it-actually-costs-to-run-an-autonomous-pharmaceutical-chain-on-a-5-branch-pilot-eo6)
-- [How I Would Modernize Ride-Share with AI, Blockchain &amp; Automation](https://dev.to/daltonic/how-i-would-modernize-ride-share-with-ai-blockchain-automation-42j4)
+- [How I Would Modernize Ride-Share with AI, Blockchain & Automation](https://dev.to/daltonic/how-i-would-modernize-ride-share-with-ai-blockchain-automation-42j4)
 - [How I Would Design an Autonomous REIT that Pays Monthly Dividends](https://dev.to/daltonic/how-i-would-design-an-autonomous-reit-that-pays-monthly-dividends-3ngg)
 - [How I Would Build an Autonomous Pharmaceutical Retail Chain Operating System](https://dev.to/daltonic/how-i-would-build-an-autonomous-pharmaceutical-retail-chain-operating-system-5be5)
 - [What You Need to Build an Automated AI Crypto Trading Bot](https://dev.to/daltonic/what-you-need-to-build-an-automated-ai-crypto-trading-bot-47fa)
@@ -155,12 +118,12 @@ Also publish on [Medium](https://medium.com/@darlingtongospel) and [HackerNoon](
 ### GitHub pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daltonic&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Daltonic GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daltonic&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Daltonic&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Daltonic GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daltonic&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daltonic&theme=dark&hide_border=true&background=00000000" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=Daltonic&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 </p>
 
 ---
