@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/5%2C800%2B-YouTube-0f172a?style=flat-square&labelColor=1e293b&color=ef4444&logo=youtube&logoColor=white" alt="YouTube"/>
   <img src="https://img.shields.io/badge/140%2B-tutorials-0f172a?style=flat-square&labelColor=1e293b&color=f97316" alt="Tutorials"/>
   <img src="https://img.shields.io/badge/45%2B-articles-0f172a?style=flat-square&labelColor=1e293b&color=a78bfa" alt="Articles"/>
-  <img src="https://img.shields.io/badge/Remote-Port_Harcourt%2C_NG-0f172a?style=flat-square&labelColor=1e293b&color=22c55e" alt="Remote"/>
+  <img src="https://img.shields.io/badge/Based-Remote-0f172a?style=flat-square&labelColor=1e293b&color=22c55e" alt="Remote"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 ### Who I am
 
-Port Harcourt based. Remote by default. I run **Dapp Mentors** — a school and a product studio in the same house. Ten years in production software. Since 2020 the work has been AI, blockchain, and the interfaces that make both usable.
+Remote by default. I run **Dapp Mentors** — a school and a product studio in the same house. Ten years in production software. Since 2020 the work has been AI, blockchain, and the interfaces that make both usable.
 
 I write the code, put it on a public network or a real server, then turn that path into courses and YouTube videos so other builders are not stuck on half-finished tutorials.
 
